@@ -12,6 +12,12 @@ This session used Google Colaboratory to teach the basics of SciKit learn throug
 
 Throughout the notebook there are challenges to test the machine learning knowledge covered in the code and theory sections. 
 
+## Master Notebook
+Contains the completed code for the workshop. It also contains the completed answers for the challenges sections 
+
+## Tutorial Notebook
+The notebook that the students were given during the workshop. It contains blank sections where the code was explained and written in and blank challenge sections.
+
 ## To Run Notebooks
 
 1. Clone the notebook 
